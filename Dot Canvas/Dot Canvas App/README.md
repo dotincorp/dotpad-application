@@ -1,9 +1,11 @@
-# About
+# Dot Canvas Web
+
+## About
 
 A tool to create image-based content
 
 
-# Channel
+## Channel
 
 The Dot Canvas app is currently available for download using TestFlight. Please fill out this form to gain access to Dot Canvas.
 
@@ -12,7 +14,7 @@ The Dot Canvas app is currently available for download using TestFlight. Please 
 3. Receive a link to download Dot Canvas through email
 
 
-# Manual
+## Manual
 
 ### 1. Device Search View
 
