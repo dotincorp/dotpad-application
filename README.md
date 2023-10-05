@@ -10,5 +10,4 @@
 │   ├── Dot Canvas Web
 └── Dot Middleware
     ├── Dot Middleware Kiosk
-    └── Dot Middleware User (in Developement)
-```
+    └── Dot Middleware User
