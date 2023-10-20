@@ -11,21 +11,20 @@
    ![download](images/download.gif)
 
   
-<details>
-  <summary>## Screen Layout  </summary>
-    ![Dot Middleware](images/middleware.gif)
-</details>
+## User Manual
+  <details>
+    <summary>Scan Dot Pad</summary>
+      ![Dot Middleware](images/middleware.gif)
+  </details>
 
-<details>
-  <summary>API usage</summary>
-  - Tactile data Dot Pad print API  
+## API usage
+  <details>
+    <summary> Tactile data Dot Pad print API</summary>  
     ```
       URL (POST) : http://127.0.0.1:8291/send
       Parameter(JSON) : {"SENDER":"CANVAS","TYPE":"PRINT_DOTPAD","MESSAGE":"Tactile hex data to be printed on 300 cells"}
+      ![PostMan](images/postman.gif)
     ```  
-    ![PostMan](images/postman.gif)
+  </details>
   - Dot Pad print  
     ![Dot Pad Print](images/dotpad.jpg)
-</details>
-
-
