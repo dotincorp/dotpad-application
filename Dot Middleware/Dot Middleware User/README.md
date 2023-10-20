@@ -10,7 +10,7 @@
  - Click the Download button.  
    ![download](images/download.gif)
   - Screen Layout  
-   ![download](images/middleware.gif)
+   <img src="images/middleware.gif" alt="Dot Middleware" width="700">
 
 ## API usage
   - Tactile data Dot Pad print API
