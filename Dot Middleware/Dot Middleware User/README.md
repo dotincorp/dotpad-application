@@ -9,3 +9,15 @@
  - Click the link for the file version you want to download.  
  - Click the Download button.  
    ![download](images/download.gif)
+  - Screen Layout  
+   ![download](images/dotpad)
+
+## API usage
+  - Tactile data Dot Pad print API
+  ```
+    URL (POST) : http://127.0.0.1:8291/send
+    Parameter(JSON) : {"SENDER":"CANVAS","TYPE":"PRINT_DOTPAD","MESSAGE":"Tactile hex data to be printed on 300 cells"}
+  ```  
+  - API call example 
+  ![download](images/postman.gif)
+  ![download](images/dotpad)
