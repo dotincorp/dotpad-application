@@ -10,7 +10,7 @@
  - Click the Download button.  
    ![download](images/download.gif)
   - Screen Layout  
-   ![download](images/dotpad)
+   ![download](images/middleware.gif)
 
 ## API usage
   - Tactile data Dot Pad print API
@@ -20,4 +20,4 @@
   ```  
   - API call example 
   ![download](images/postman.gif)
-  ![download](images/dotpad)
+  ![download](images/dotpad.jpg)
