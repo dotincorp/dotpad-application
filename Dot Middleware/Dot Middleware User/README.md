@@ -10,10 +10,14 @@
  - Click the Download button.  
    ![download](images/download.gif)
 
-## Screen Layout  
- ![Dot Middleware](images/middleware.gif)
+  
+<details>
+  <summary>## Screen Layout  </summary>
+    ![Dot Middleware](images/middleware.gif)
+</details>
 
-## API usage
+<details>
+  <summary>API usage</summary>
   - Tactile data Dot Pad print API  
     ```
       URL (POST) : http://127.0.0.1:8291/send
@@ -22,3 +26,6 @@
     ![PostMan](images/postman.gif)
   - Dot Pad print  
     ![Dot Pad Print](images/dotpad.jpg)
+</details>
+
+
