@@ -24,7 +24,7 @@
       URL (POST) : http://127.0.0.1:8291/send
       Parameter(JSON) : {"SENDER":"CANVAS","TYPE":"PRINT_DOTPAD","MESSAGE":"Tactile hex data to be printed on 300 cells"}
       ![PostMan](images/postman.gif)
-    ```  
   </details>
+  ```
   - Dot Pad print  
     ![Dot Pad Print](images/dotpad.jpg)
