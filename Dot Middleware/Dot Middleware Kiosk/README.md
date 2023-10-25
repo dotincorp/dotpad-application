@@ -9,6 +9,8 @@
  - Click the Download button.  
    <img src="images/download.gif" alt="How to download">
 
+ ## Run Dot Middleware for kiosk
+   <img src="images/program.gif" alt="Run Dot Middleware for kiosk">
 
 ## REST API usage guide
   <details>
