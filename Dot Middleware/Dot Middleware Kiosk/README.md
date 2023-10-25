@@ -15,9 +15,9 @@
     <summary>300 cell print</summary>  
     <pre><code>
       URL (POST) : http://127.0.0.1:8291/request/111
-      Parameter(JSON) : {"DTM_FILE_PATH": "D:/Data/dtm/1_1_A.dtm"} 
+      Parameter(JSON) : {"DTM_FILE_PATH": "C:/sample.dtm"} 
     </code></pre>
-    <img src="images/postman-300cell.gif" alt="Post Man">
+    <img src="images/postman-300cell.gif" alt="Post Man 300cell">
   </details>
   <details>
     <summary>20 cell print</summary>  
@@ -25,5 +25,5 @@
       URL (POST) : http://127.0.0.1:8291/request/111
       Parameter(JSON) : {"DTM_FILE_PATH": "D:/Data/dtm/1_1_A.dtm"} 
     </code></pre>
-    <img src="images/postman-20cell.gif" alt="Post Man">
+    <img src="images/postman-20cell.gif" alt="Post Man 200cell">
   </details>
