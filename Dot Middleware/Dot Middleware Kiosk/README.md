@@ -35,9 +35,12 @@
 - API information
   ```
     URL (POST) : http://127.0.0.1:8291/request/121
-    Parameter(JSON) : {"INPUT": "I love dot", "LANGUAGE": "5"} 
-  ```
+    Parameter(JSON) : {"INPUT": "I love Dot", "LANGUAGE": "5"}
 
+    *LANGUAGE : 1(Arabic), 3(Chinese Mandarin), 5(English), 6(French), 7(German), 8(Italian), 9(Japanese) 
+                10(Korean), 11(Russian), 12(Spanish), 13(Vietnamese), 16(Czech), 17(Polish), 18(Norwegian)
+  ```
+ 
 - Post Man  
   <img src="images/postman-20cell.gif" alt="Post Man 300cell">
 
