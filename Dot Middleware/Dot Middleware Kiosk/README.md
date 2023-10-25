@@ -25,7 +25,7 @@
 - API information : <a href="sample.dtm">downlaod sample.dtm</a>  
   ```
     URL (POST) : http://127.0.0.1:8291/request/111
-    Parameter(JSON) : {"DTM_FILE_PATH": "D:/Data/dtm/ample.dtm"}
+    Parameter(JSON) : {"DTM_FILE_PATH": "c:/sample.dtm"}
   ```
 
 - Post Man  
@@ -33,13 +33,12 @@
 
 ### print to a 20 cell device  
 - API information
-  <a href="sample.dtm">downlaod sample.dtm</a>
   ```
-    URL (POST) : http://127.0.0.1:8291/request/111
-    Parameter(JSON) : {"DTM_FILE_PATH": "D:/Data/dtm/ample.dtm"}
+    URL (POST) : http://127.0.0.1:8291/request/121
+    Parameter(JSON) : {"INPUT": "I love dot", "LANGUAGE": "5"} 
   ```
 
 - Post Man  
-  <img src="images/postman-300cell.gif" alt="Post Man 300cell">
+  <img src="images/postman-20cell.gif" alt="Post Man 300cell">
 
 
