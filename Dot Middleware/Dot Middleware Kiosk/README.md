@@ -9,20 +9,43 @@
  - Click the Download button.  
    <img src="images/download.gif" alt="How to download">
 
- ## Run Dot Middleware for kiosk
-   <img src="images/program.gif" alt="Run Dot Middleware for kiosk">
+ ## Kiosk Elements
+ <details>
+    <summary>Middleware program</summary>  
+    <pre>
+      <img src="images/program.gif" alt="Run program">
+    </pre>
+  </details>
+  <details>
+    <summary>300 cell device</summary>  
+    <pre>
+      <img src="images/device-300cell.gif" alt="300 cell device">
+    </pre>
+  </details>
+  <details>
+    <summary>20 cell device</summary>  
+    <pre>
+      <img src="images/device-20cell.gif" alt="20 cell device">
+    </pre>
+  </details>
 
 ## REST API usage guide
   <details>
-    <summary>300 cell print</summary>  
-    <pre><code>
-      URL (POST) : http://127.0.0.1:8291/request/111
-      Parameter(JSON) : {"DTM_FILE_PATH": "C:/sample.dtm"} 
-    </code></pre>
-    <img src="images/postman-300cell.gif" alt="Post Man 300cell">
+    <summary>API to print to a 300-cell device</summary>  
+    <pre>
+       <li> api </li>
+       <a href="sample.dtm">downlaod sample.dtm</a>
+       <code>
+         URL (POST) : http://127.0.0.1:8291/request/111
+         Parameter(JSON) : {"DTM_FILE_PATH": "D:/Data/dtm/ample.dtm"} 
+        </code>
+      <li>post-man</li>
+      <img src="images/postman-300cell.gif" alt="Post Man 300cell">
+    </pre>
+    
   </details>
   <details>
-    <summary>20 cell print</summary>  
+    <summary>API to print to a 20-cell device</summary>  
     <pre><code>
       URL (POST) : http://127.0.0.1:8291/request/111
       Parameter(JSON) : {"DTM_FILE_PATH": "D:/Data/dtm/1_1_A.dtm"} 
