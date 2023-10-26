@@ -20,7 +20,7 @@
 - 20 cell device  
   <img src="images/device-20cell.png" alt="20 cell device" width="600">
 
-## REST API usage guide
+## REST API
 ### print to a 300 cell device
 - API information : <a href="sample.dtm">downlaod sample.dtm</a>  
   ```
