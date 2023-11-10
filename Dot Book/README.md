@@ -2,13 +2,13 @@
 
 ## Directory
 ```
-├── Dot Book Reader
-└── Dot Book Editor
+├── Dot Book Editor
+└── Dot Book Reader
 ```
 
 ## Purpose  
 - Dot Book was created to assist visually impaired individuals in easily accessing various types of documents.  
-- It allows users to listen to the contents of documents in audio format and also output them through a Braille display (multi-line Braille terminal).
+- Dot Book allows users to listen to the contents of documents in audio format and also output them through a Braille display (multi-line Braille terminal).
 - Dot Book offers multi-line output capabilities through a Braille display, making it a potential replacement for Braille books.
 
 ## Key Features
