@@ -1,6 +1,6 @@
 # Dot Canvas
 
-## directory
+## Directory
 ```
 ├── Dot Canvas App
 └── Dot Canvas Web
