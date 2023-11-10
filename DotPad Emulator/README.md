@@ -1,0 +1,15 @@
+# DotPad Emulator
+
+## Purpose
+- The DotPad emulator is created to allow developers to test and develop without the need for actual DotPad hardware devices.
+- You can develop DotPad programs using the DotPad SDK and then connect to the DotPad emulator to test and output them.
+
+## How to Use
+1. Run the DotPad emulator.  
+<img src="images/emulator1.png" width="800px" alt="DotPad emulator">  
+2. Connect to Dot Canvas Web and establish a connection with DotPad emulator.  
+<img src="images/emulator2.png" width="800px" alt="Dot Canvas Web Connect">  
+3. Select the DotPad emulator and establish a connection.  
+<img src="images/emulator3.png" width="800px" alt="Dot Canvas Web Connected">  
+4. Output through the DotPad emulator  
+<img src="images/emulator4.png" width="800px" alt="DotPad emulator">  
