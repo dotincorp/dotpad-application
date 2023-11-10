@@ -7,7 +7,7 @@
 ```
 
 ## Key Features
-- Dot Canvas is an application designed for creating content to output tactile and Braille on DotPad. The created content files include tactile image data for displaying 300 cells on DotPad and Braille data for displaying 20 cells.
+- Dot Canvas is an application designed for creating content to output tactile and Braille on Dot Pad. The created content files include tactile image data for displaying 300 cells on Dot Pad and Braille data for displaying 20 cells.
 
 - Dot Canvas offers two versions: a mobile Dot Canvas App for visually impaired users to create tactile images independently and a PC Dot Canvas Web version for collaborators such as parents and teachers, considering users' accessibility needs.
 
@@ -19,7 +19,7 @@
 
 - Users can share their created content files for others to utilize, and they can also use content shared by others. With an active cloud ecosystem for content sharing, accessing a wide range of content is expected to become more accessible and convenient.
 
-- DotPad can be connected via Bluetooth or USB, allowing for single or multi-device connections. Multiple DotPad connections are useful for teachers conducting lessons with multiple students.
+- Dot Pad can be connected via Bluetooth or USB, allowing for single or multi-device connections. Multiple Dot Pad connections are useful for teachers conducting lessons with multiple students.
 
 ## Min Screen
 #### Dot Canvas Web
