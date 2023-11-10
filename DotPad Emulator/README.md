@@ -6,7 +6,7 @@
 
 ## How to Use
 1. Install the DotPad emulator from the app store.  
-<a href="https://apps.apple.com/app/bluetooth-simulator/id6468956150.">DotPad emulator App Store shortcut</a>  
+<a href="https://apps.apple.com/us/app/bluetooth-simulator/id6468956150">DotPad emulator App Store shortcut</a>  
 <img src="images/emulator1.png" width="800px" alt="App store">  
 2. Run the DotPad emulator.  
 <img src="images/emulator2.png" width="800px" alt="DotPad emulator">  
