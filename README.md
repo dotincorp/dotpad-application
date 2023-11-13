@@ -6,8 +6,8 @@ This section provides user guides for applications developed by Dot for use with
 ## Directory
 ```
 ├── Dot Book
-│   ├── Dot Book App (in development) 
-│   ├── Dot Book Web (in development) 
+│   ├── Dot Book Reader
+│   ├── Dot Book Editor
 ├── Dot Canvas
 │   ├── Dot Canvas App
 │   ├── Dot Canvas Web
