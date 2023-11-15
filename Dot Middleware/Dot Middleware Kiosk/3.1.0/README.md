@@ -1,4 +1,13 @@
-# Dot Middleware for Kiosk
+# Dot Middleware for Kiosk (version 3.1.0)
+
+## Program
+- Environment variable settings (liblouis braille table folder location)
+```
+  setx LOUIS_TABLEPATH "D:\middleware\tables" /M
+  echo %LOUIS_TABLEPATH%
+```  
+- Run program
+   <img src="images/program.gif" alt="Run program">
 
 ## REST API
 ### print to a 300 cell device

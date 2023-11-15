@@ -1,5 +1,9 @@
-# Dot Middleware for Kiosk
+# Dot Middleware for Kiosk (version 3.0.1)
 
+## Middleware program
+- Run program
+   <img src="images/program.gif" alt="Run program">
+   
 ## REST API
 ### print to a 300 cell device
 - API information : <a href="sample.dtm">downlaod sample.dtm</a>  
