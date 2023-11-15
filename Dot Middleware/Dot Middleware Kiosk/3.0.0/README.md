@@ -5,8 +5,6 @@
 
 ## Program
 - Download program : <a href="dot-middleware-kiosk-3.0.0.zip">download</a>
-- Run program
-   <img src="images/program.gif" alt="Run program">
    
 ## REST API
 ### print to a 300 cell device
