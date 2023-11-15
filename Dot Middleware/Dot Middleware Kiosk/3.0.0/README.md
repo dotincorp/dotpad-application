@@ -1,6 +1,10 @@
 # Dot Middleware for Kiosk (version 3.0.0)
 
-## Middleware program
+## Change history
+- 3.0.0 (2023.04.11) : Add administrator privileges at runtime
+
+## Program
+- Download program : <a href="dot-middleware-kiosk-3.0.0.zip">download</a>
 - Run program
    <img src="images/program.gif" alt="Run program">
    
