@@ -1,8 +1,10 @@
 # Dot Middleware for Kiosk (version 3.0.0)
 
-## Middleware program
-- Run program
-   <img src="images/program.gif" alt="Run program">
+## Change history
+- 3.0.0 (2023.04.11) : Add administrator privileges at runtime
+
+## Program
+- Download program : <a href="dot-middleware-kiosk-3.0.0.zip">download</a>
    
 ## REST API
 ### print to a 300 cell device

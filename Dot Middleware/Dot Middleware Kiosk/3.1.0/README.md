@@ -1,6 +1,12 @@
 # Dot Middleware for Kiosk (version 3.1.0)
 
+## Change history
+- 3.0.0 (2023.04.11) : Add administrator privileges at runtime
+- 3.0.1 (2023.10.25) : Add a rest api
+- 3.1.0 (2023.11.15) : Add liblouis braille engine
+
 ## Program
+- Download program : <a href="dot-middleware-kiosk-3.1.0.zip">download</a>
 - Environment variable settings (liblouis braille table folder location)
 ```
   setx LOUIS_TABLEPATH "D:\middleware\tables" /M

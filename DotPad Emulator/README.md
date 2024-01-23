@@ -1,8 +1,10 @@
 # DotPad Emulator
 
-## Purpose
+
+## Overview
 - The DotPad emulator is created to allow developers to test and develop without the need for actual DotPad hardware devices.
 - You can develop DotPad programs using the DotPad SDK and then connect to the DotPad emulator to test and output them.
+- Developer <a href="https://apps.apple.com/us/developer/yueyu-zhao/id1689319351">Yueyu Zhao</a> contributed to the development of the dotpad emulator.
 
 ## How to Use
 1. Install the DotPad emulator from the app store.  
