@@ -1,7 +1,7 @@
-# Dot Middleware for Kiosk (version 3.2.0)
+# Dot Middleware for Kiosk (version 3.1.0)
 
 ## Program
-- Download program : <a href="dot-middleware-kiosk-3.2.0.zip">download</a>
+- Download program : <a href="dot-middleware-kiosk-3.1.0.zip">download</a>
 - Environment variable settings (liblouis braille table folder location)
 ```
   setx LOUIS_TABLEPATH "D:\middleware\tables" /M
@@ -36,5 +36,3 @@
  
 - Post Man  
   <img src="images/postman-20cell.gif" alt="Post Man 300cell">
-
-
