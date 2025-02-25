@@ -1,7 +1,7 @@
 # DotPad NVDA AddOn
 
 ## Download Link
-- 1.1.0 <a href="nvda-dotpad-1.1.0.nvda-addon">download</a> (2025.02.25) : Auto Refresh
+- 1.1.0 beta <a href="nvda-dotpad-1.1.0-beta.nvda-addon">download</a> (2025.02.25) : Add Auto Refresh (beta)
 - 1.0.0 <a href="nvda-dotpad-1.0.0.nvda-addon">download</a> (2024.10.31) : Initial release
 
 ## How to download
