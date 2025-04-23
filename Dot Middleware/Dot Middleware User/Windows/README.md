@@ -3,6 +3,12 @@
 ## Download Link
 - 1.0.3-beta <a href="https://github.com/dotincorp/dotpad-application/raw/refs/heads/main/Dot%20Middleware/Dot%20Middleware%20User/Windows/dot-middleware-user-1.0.3-beta.exe">download</a> (2025.04.18) : Fixed instability in Dotpad connection/reconnection
 
+## Install
+- Run the installation file
+<img src="images/install-step1.png" alt="Run the installation file">
+
+- Run as program administrator
+<img src="images/install-step2.png" alt="Run as program administrator">
 
 
 
