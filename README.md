@@ -14,5 +14,4 @@ This section provides user guides for applications developed by Dot for use with
 ├── Dot Middleware
 │   ├── Dot Middleware Kiosk
 │   └── Dot Middleware User
-├── Dot PST
 └── Dot Emulator
