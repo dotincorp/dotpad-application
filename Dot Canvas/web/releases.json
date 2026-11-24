@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "platform": "web",
+  "product": {
+    "version": "v2.4",
+    "minimumOs": "Chrome · Edge · Safari 최신 버전",
+    "downloadUrl": "https://dot.apps-dotincorp.com/canvas"
+  },
+  "releases": [
+    {
+      "version": "v2.4",
+      "date": "2026-11-10",
+      "details": [
+        {
+          "type": "NEW",
+          "text": {
+            "en": "Added zoom for tactile graphics",
+            "ko": "그림 확대 기능 추가"
+          }
+        },
+        {
+          "type": "FIX",
+          "text": {
+            "en": "Fixed braille preview not refreshing after undo",
+            "ko": "실행 취소 후 점자 미리보기가 갱신되지 않던 문제 수정"
+          }
+        }
+      ]
+    },
+    {
+      "version": "v2.3",
+      "date": "2026-09-25",
+      "details": [
+        {
+          "type": "IMPROVE",
+          "text": {
+            "en": "Improved drawing tool responsiveness",
+            "ko": "그리기 도구 반응 속도 개선"
+          }
+        }
+      ]
+    }
+  ]
+}

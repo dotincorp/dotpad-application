@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "platform": "windows",
+  "product": {
+    "version": "v1.5",
+    "minimumOs": "NVDA 2024.1+",
+    "downloadUrl": "https://addonstore.nvaccess.org"
+  },
+  "releases": [
+    {
+      "version": "v1.5",
+      "date": "2026-11-03",
+      "details": [
+        {
+          "type": "NEW",
+          "text": {
+            "en": "Added support for Dot Pad 320",
+            "ko": "닷패드 320 지원 추가"
+          }
+        }
+      ]
+    },
+    {
+      "version": "v1.4",
+      "date": "2026-08-11",
+      "details": [
+        {
+          "type": "FIX",
+          "text": {
+            "en": "Fixed cursor routing on multi-line displays",
+            "ko": "멀티라인 디스플레이에서 커서 라우팅 오류 수정"
+          }
+        }
+      ]
+    }
+  ]
+}

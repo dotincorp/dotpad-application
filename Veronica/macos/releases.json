@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "platform": "macos",
+  "product": {
+    "version": "v1.2",
+    "minimumOs": "macOS 12+",
+    "downloadUrl": "https://store.dotincorp.com"
+  },
+  "releases": [
+    {
+      "version": "v1.2",
+      "date": "2026-11-01",
+      "details": [
+        {
+          "type": "FIX",
+          "text": {
+            "en": "Fixed crash on Apple silicon",
+            "ko": "Apple 실리콘에서 종료되던 문제 수정"
+          }
+        }
+      ]
+    },
+    {
+      "version": "v1.1",
+      "date": "2026-09-15",
+      "details": [
+        {
+          "type": "NEW",
+          "text": {
+            "en": "Added image description for charts",
+            "ko": "차트 이미지 설명 기능 추가"
+          }
+        }
+      ]
+    }
+  ]
+}

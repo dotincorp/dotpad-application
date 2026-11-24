@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "platform": "windows",
+  "product": {
+    "version": "v2.1",
+    "minimumOs": "Windows 10+",
+    "downloadUrl": "https://github.com/dotincorp/dotpad-application/raw/main/TDA/windows/JAWS-TDA-Setup-x64.exe"
+  },
+  "releases": [
+    {
+      "version": "v2.1",
+      "date": "2026-10-20",
+      "details": [
+        {
+          "type": "IMPROVE",
+          "text": {
+            "en": "Improved connection stability",
+            "ko": "연결 안정성 개선"
+          }
+        }
+      ]
+    },
+    {
+      "version": "v2.0",
+      "date": "2026-07-14",
+      "details": [
+        {
+          "type": "NEW",
+          "text": {
+            "en": "Initial release of TDA 2.0",
+            "ko": "TDA 2.0 출시"
+          }
+        }
+      ]
+    }
+  ]
+}

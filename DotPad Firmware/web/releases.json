@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "platform": "web",
+  "product": {
+    "version": "v3.2",
+    "minimumOs": "",
+    "downloadUrl": "https://support.dot.apps-dotincorp.com/"
+  },
+  "releases": [
+    {
+      "version": "v3.2",
+      "date": "2026-11-05",
+      "details": [
+        {
+          "type": "IMPROVE",
+          "text": {
+            "en": "Improved pin refresh speed",
+            "ko": "핀 갱신 속도 개선"
+          }
+        }
+      ]
+    },
+    {
+      "version": "v3.1",
+      "date": "2026-08-27",
+      "details": [
+        {
+          "type": "FIX",
+          "text": {
+            "en": "Fixed Bluetooth reconnection issue",
+            "ko": "블루투스 재연결 문제 수정"
+          }
+        }
+      ]
+    }
+  ]
+}

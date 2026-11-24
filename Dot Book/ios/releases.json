@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "platform": "ios",
+  "product": {
+    "version": "v1.3",
+    "minimumOs": "iOS 15.0+",
+    "downloadUrl": "https://apps.apple.com/us/app/dot-book/id6464456781"
+  },
+  "releases": [
+    {
+      "version": "v1.3",
+      "date": "2026-10-30",
+      "details": [
+        {
+          "type": "NEW",
+          "text": {
+            "en": "Added bookmark sync across devices",
+            "ko": "기기 간 책갈피 동기화 추가"
+          }
+        }
+      ]
+    },
+    {
+      "version": "v1.2",
+      "date": "2026-08-21",
+      "details": [
+        {
+          "type": "IMPROVE",
+          "text": {
+            "en": "Improved braille page layout",
+            "ko": "점자 페이지 레이아웃 개선"
+          }
+        }
+      ]
+    }
+  ]
+}

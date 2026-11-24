@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "platform": "windows",
+  "product": {
+    "version": "",
+    "minimumOs": "",
+    "downloadUrl": ""
+  },
+  "releases": [
+    {
+      "version": "",
+      "date": "",
+      "details": [
+        {
+          "type": "COMING_SOON",
+          "text": {
+            "en": "Coming soon",
+            "ko": "준비 예정"
+          }
+        }
+      ]
+    }
+  ]
+}

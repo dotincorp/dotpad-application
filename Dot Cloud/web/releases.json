@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "platform": "web",
+  "product": {
+    "version": "v1.3",
+    "minimumOs": "Chrome · Edge · Safari 최신 버전",
+    "downloadUrl": "https://dot.apps-dotincorp.com/cloud"
+  },
+  "releases": [
+    {
+      "version": "v1.3",
+      "date": "2026-10-28",
+      "details": [
+        {
+          "type": "NEW",
+          "text": {
+            "en": "Added public drive search",
+            "ko": "공개 드라이브 검색 추가"
+          }
+        }
+      ]
+    },
+    {
+      "version": "v1.2",
+      "date": "2026-08-19",
+      "details": [
+        {
+          "type": "FIX",
+          "text": {
+            "en": "Fixed upload failure for large files",
+            "ko": "대용량 파일 업로드 실패 문제 수정"
+          }
+        }
+      ]
+    }
+  ]
+}

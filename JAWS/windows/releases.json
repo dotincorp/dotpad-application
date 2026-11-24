@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "platform": "windows",
+  "product": {
+    "version": "v2.1",
+    "minimumOs": "JAWS 2024+",
+    "downloadUrl": "https://support.freedomscientific.com/Downloads/jaws"
+  },
+  "releases": [
+    {
+      "version": "v2.1",
+      "date": "2026-10-20",
+      "details": [
+        {
+          "type": "IMPROVE",
+          "text": {
+            "en": "Improved graphics rendering speed",
+            "ko": "그래픽 출력 속도 개선"
+          }
+        }
+      ]
+    },
+    {
+      "version": "v2.0",
+      "date": "2026-07-14",
+      "details": [
+        {
+          "type": "NEW",
+          "text": {
+            "en": "Added tactile graphics mode",
+            "ko": "촉각 그래픽 모드 추가"
+          }
+        }
+      ]
+    }
+  ]
+}

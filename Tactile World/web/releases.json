@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "platform": "web",
+  "product": {
+    "version": "v1.0",
+    "minimumOs": "Chrome · Edge · Safari 최신 버전",
+    "downloadUrl": "https://tactileworlds.com"
+  },
+  "releases": [
+    {
+      "version": "v1.0",
+      "date": "2026-10-20",
+      "details": [
+        {
+          "type": "NEW",
+          "text": {
+            "en": "Launched Tactile World",
+            "ko": "텍타일 월드 오픈"
+          }
+        }
+      ]
+    }
+  ]
+}

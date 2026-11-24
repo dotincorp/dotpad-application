@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "platform": "windows",
+  "product": {
+    "version": "v1.1",
+    "minimumOs": "Windows 10+",
+    "downloadUrl": "https://store.dotincorp.com"
+  },
+  "releases": [
+    {
+      "version": "v1.1",
+      "date": "2026-09-15",
+      "details": [
+        {
+          "type": "NEW",
+          "text": {
+            "en": "Added image description for charts",
+            "ko": "차트 이미지 설명 기능 추가"
+          }
+        }
+      ]
+    }
+  ]
+}
